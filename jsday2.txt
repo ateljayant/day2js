@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day2</title>
+    <link rel="stylesheet" href="day2.js">
+</head>
+<body>
+    <h1>hello world</h1>
+    Topics done today:
+        - declaration (3 types)
+            - var
+            - let
+            - const
+        - hiosting in JS
+        data-types :
+        int --> 17, 34, 6 
+         
+         float 77.5
+    
+        string --> "yobro"
+        objects
+
+        booleans: true and false
+    
+        array --> [ 25, 51, 77] 
+        1. DECELARATIONS
+    
+        3 types: let, const and var
+    
+        1. var --> variable
+    
+        var a=17;
+    
+note : everything in javascript is getting converted into objects
+    
+hiosting in JS
+note : hoisting is not possible in let and const
+hoisting is a default feature in JS than automatically pushes the function deleclaration at top so that it gets excuted before invocation
+        trex();
+    console.log(q);
+
+    var q=71;
+
+    function cgb() {
+        console.log("Hello world");
+    }
+
+</body>
+</html>
